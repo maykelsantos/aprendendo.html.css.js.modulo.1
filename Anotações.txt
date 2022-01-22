@@ -1,0 +1,48 @@
+>> github.com/gustavoguanabara
+>> gustavoguanabara.github.io
+>> github.com/gustavoguanabara/html-css
+
+>> Referência MDN (Mozilla Developer Network)
+>> W3C Standards (World Wide Web Consortium)
+>> WHATWG Living Standard (Web Hypertext Application Technology Working Group)
+>> W3Schools (Refsnes Data)
+
+>> www.submarinecablemap.com
+
+>>  UTF-8 ???
+>> MB <> Mb
+>> MB = MEGABYTES (Armazenamento, Tamanho do HD)
+>> Mb = MegaBits (Transmissão - Velocidade da Internet)
+>> MODEM = MOdulação / DEModulação
+
+>> DOMÍNIO = NOME IDENTIFICADOR DO SITE (ÚNICO)
+>> HOSPEDAGEM = LOCAL/ESPAÇO DE ARMAZENAGEM DO SITE
+>> URL = PROTOCOLO (HTTPS), SUB-DOMINIO (WWW), DOMINIO (GITHUB.COM), TLD (.COM), CAMINHO (/GUSTAVOGUANABARA)
+
+>> HTML = HYPERTEXT MARKUP LANGUAGE
+	>> CONTEÚDO = TEXTOS, IMAGENS, VÍDEOS, TABELAS, LISTAS
+>> CSS = CASCADING STYLE SHEETS
+	>> DESIGN = COR, SOMBRAS, TAMANHOS, POSICIONAMENTO
+>> JAVASCRIPT
+	>> INTERAÇÕES = MENUS, ANIMAÇÕES, POPUPS, VALIDAÇÕES
+>> ESTRUTURA BÁSICA DE HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta chartset="UTF-8">
+		<meta name="viewport"
+		conten="width=device=width,
+		initial-scale=1.0">
+		<title>Document</title>
+	</head>
+	<body>
+		<h1>Olá, Mundo!</h1>
+		
+	</body>
+</html>
+
+>> Front-end (client-side) [HTML, CSS, JS]
+>> Back-end (server-side) [PHP, NodeJS, C#, PYTHON, RUBI, JAVA]
+>> Full Stack (Front-end + Back-end)
+

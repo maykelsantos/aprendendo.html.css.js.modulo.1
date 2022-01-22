@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo Vídeos Hospedado Localmente</h1>
+        <p>Este vídeo está hospedado no meu próprio servidor.</p>
+            <video src="midia/pexels-kelly-lacy-9722139.mp4" controls width="500" loop></video>
+            <!--controls, mostra os controles para manipulação do vídeo-->
+            <!--width, define a largura para exibição do vídeo-->
+            <!--loop, ao final do vídeo ele retorna ao início-->
+            <br>
+            <video controls width="500" poster="imagens/FOTO MAYKEL.jpeg" loop>
+                <!--poster, adiciona uma capa para o vídeo a ser exibido-->
+                <source src="midia/pexels-kelly-lacy-9722139.mp4" type="video/mp4">
+                <source src="midia/pexels-kelly-lacy-9722139.m4v" type="video/m4v">
+                <source src="midia/pexels-kelly-lacy-9722139.ogv" type="video/ogv">
+                <p>O seu navegador não tem compatibilidade com reprodução de vídeo. <a href="midia/pexels-kelly-lacy-9722139.mp4">Clique aqui para realizar o download do vídeo.</a></p>
+            </video>
+    <h1>Inserindo vídeos do YouTube</h1>
+    <iframe width="500" height="280" src="https://www.youtube.com/embed/GpJh5umJWyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

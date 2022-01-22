@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+h1 {
+    background-color: gray;
+}
+h2 {
+    background-color: darkslategrey;
+}
+p {
+    background-color: darkred;
+}
+a {
+    color: yellow;
+    background-color: darkslateblue;
+}
